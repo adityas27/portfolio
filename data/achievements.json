@@ -1,0 +1,23 @@
+[
+  {
+    "id": "achievement-1",
+    "title": "Built a product used across three teams",
+    "description": "Led the design and rollout of a shared internal workflow that reduced duplicated admin time and made operational reporting easier to trust.",
+    "date": "2025",
+    "link": null
+  },
+  {
+    "id": "achievement-2",
+    "title": "Improved release confidence",
+    "description": "Introduced a more structured QA and review flow that shortened release prep and reduced preventable issues in production.",
+    "date": "2024",
+    "link": null
+  },
+  {
+    "id": "achievement-3",
+    "title": "Mentored early-career engineers",
+    "description": "Partnered with junior developers on architecture reviews, code quality improvements, and delivery planning to strengthen team execution.",
+    "date": "2023",
+    "link": null
+  }
+]

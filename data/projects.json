@@ -1,0 +1,103 @@
+[
+  {
+    "id": "project-1",
+    "number": "01",
+    "title": "Northstar Ops",
+    "shortDescription": "A workflow platform for coordinating cross-functional delivery across product, ops, and support teams.",
+    "description": "Northstar Ops helped a growing team replace scattered checklists and fragmented status updates with one source of truth for execution. The platform combined planning, approvals, and reporting into a streamlined interface that gave leadership visibility without adding operational overhead.",
+    "featured": true,
+    "year": "2025",
+    "role": "Lead Engineer",
+    "technologies": ["Next.js", "TypeScript", "PostgreSQL", "Tailwind CSS"],
+    "problem": "The team was coordinating work through spreadsheets, Slack, and manual handoffs, which caused slow decisions and repeated admin work.",
+    "solution": "I designed and built a lightweight internal product that unified planning, actions, approvals, and progress tracking in one workflow-driven interface.",
+    "results": [
+      "Reduced team coordination overhead by 35% during rollout.",
+      "Improved reporting visibility for leadership and stakeholders.",
+      "Cut duplicate operational work across planning and status updates."
+    ],
+    "metrics": [
+      { "value": "35%", "label": "Less coordination overhead" },
+      { "value": "3x", "label": "Faster decision loops" }
+    ],
+    "image": "/images/projects/northstar-ops.svg",
+    "githubUrl": "https://github.com/alexmorgan/northstar-ops",
+    "liveUrl": "https://northstar-ops.example.com",
+    "caseStudyUrl": null
+  },
+  {
+    "id": "project-2",
+    "number": "02",
+    "title": "SignalBoard",
+    "shortDescription": "A searchable operational dashboard for surfacing product health, incidents, and release risks across services.",
+    "description": "SignalBoard gave engineering managers a more reliable window into release health and operational friction. I took the product from loose spreadsheets and ad hoc dashboards into a single integrated view for prioritization and faster incident response.",
+    "featured": true,
+    "year": "2024",
+    "role": "Full Stack Engineer",
+    "technologies": ["React", "Node.js", "PostgreSQL", "Redis"],
+    "problem": "Product and platform teams lacked a single place to understand service health, release risk, and cross-team blockers.",
+    "solution": "I built a dashboard that consolidated health signals, release status, and team ownership into a clear system with filters and trend visibility.",
+    "results": [
+      "Made operational risk visible earlier in the release cycle.",
+      "Enabled faster cross-team triage and follow-up.",
+      "Reduced manual status aggregation work for leadership."
+    ],
+    "metrics": [
+      { "value": "2x", "label": "Faster incident triage" },
+      { "value": "8 hrs", "label": "Saved per week" }
+    ],
+    "image": "/images/projects/signalboard.svg",
+    "githubUrl": "https://github.com/alexmorgan/signalboard",
+    "liveUrl": null,
+    "caseStudyUrl": null
+  },
+  {
+    "id": "project-3",
+    "number": "03",
+    "title": "FocusFlow",
+    "shortDescription": "A lightweight planning tool for high-context teams balancing roadmap execution and day-to-day delivery.",
+    "description": "FocusFlow was designed for teams juggling roadmap priorities with day-to-day execution. The product framed work as a manageable flow rather than a long backlog and shifted team planning toward clearer focus and less context switching.",
+    "featured": false,
+    "year": "2023",
+    "role": "Product Engineer",
+    "technologies": ["Next.js", "TypeScript", "Prisma", "PostgreSQL"],
+    "problem": "Teams lost momentum when planning systems were too heavy or too vague, leading to constant re-prioritization and scattered context.",
+    "solution": "I built a focused planning experience that made priorities explicit, reduced noise, and gave teams a cleaner rhythm for weekly execution.",
+    "results": [
+      "Improved weekly planning clarity for product and engineering teams.",
+      "Reduced backlog drift and duplicate planning work.",
+      "Created a sharper team operating rhythm across sprints."
+    ],
+    "metrics": [],
+    "image": "/images/projects/focusflow.svg",
+    "githubUrl": "https://github.com/alexmorgan/focusflow",
+    "liveUrl": "https://focusflow.example.com",
+    "caseStudyUrl": null
+  },
+  {
+    "id": "project-4",
+    "number": "04",
+    "title": "PulseKit",
+    "shortDescription": "A design-system friendly analytics layer for product teams to surface meaningful signals without added overhead.",
+    "description": "PulseKit was created to support better product decisions without requiring engineering teams to rebuild instrumentation every cycle. It brought consistent event capture, dashboards, and executive summaries together under one clear interface.",
+    "featured": false,
+    "year": "2022",
+    "role": "Frontend Engineer",
+    "technologies": ["React", "TypeScript", "Storybook", "Node.js"],
+    "problem": "Analytics features were duplicated across product squads and often lacked a shared pattern for event semantics and reporting.",
+    "solution": "I built a reusable analytics UX layer with consistent reporting and a cleaner path for teams to instrument product changes.",
+    "results": [
+      "Standardized how product metrics were captured and reviewed.",
+      "Reduced implementation time for new dashboards and reporting views.",
+      "Improved understanding of feature impact across teams."
+    ],
+    "metrics": [
+      { "value": "11", "label": "Dashboards standardized" },
+      { "value": "40%", "label": "Faster instrumentation" }
+    ],
+    "image": "/images/projects/pulsekit.svg",
+    "githubUrl": "https://github.com/alexmorgan/pulsekit",
+    "liveUrl": null,
+    "caseStudyUrl": "https://example.com/case-study/pulsekit"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "Aditya Singh",
+  "role": "Software Engineer",
+  "location": "Mumbai, India",
+  "shortBio": "I am a software engineer with passion of understanding systems to the core and understanding first princples approach to solve problems. I have experience in building scalable and maintainable systems.",
+  "longBio": "I’m a software engineer focused on building performant, maintainable products that feel calm, clear, and dependable. My work sits across product strategy, frontend delivery, and platform thinking—turning ambiguous requests into polished systems that teams can trust.",
+  "email": "hello@alexmorgan.dev",
+  "availability": "Open to product, platform, and full-stack opportunities",
+  "resumeUrl": "/resume.pdf"
+}

@@ -1,0 +1,28 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" fill="#F5F2EE"/>
+  <rect x="90" y="90" width="1020" height="540" rx="32" fill="#FCFBFA" stroke="#D7D2CD"/>
+  <rect x="120" y="118" width="260" height="18" rx="9" fill="#171717" fill-opacity="0.82"/>
+  <rect x="120" y="158" width="150" height="12" rx="6" fill="#C7C1BA"/>
+  <rect x="120" y="216" width="280" height="332" rx="24" fill="#F1EFEA"/>
+  <rect x="432" y="216" width="250" height="150" rx="22" fill="#FFFFFF" stroke="#E4E1DD"/>
+  <rect x="712" y="216" width="338" height="150" rx="22" fill="#FFFFFF" stroke="#E4E1DD"/>
+  <rect x="432" y="398" width="618" height="150" rx="22" fill="#FFFFFF" stroke="#E4E1DD"/>
+  <rect x="146" y="280" width="110" height="12" rx="6" fill="#171717" fill-opacity="0.8"/>
+  <rect x="146" y="310" width="136" height="10" rx="5" fill="#B9B3AE"/>
+  <path d="M152 474L194 444L244 454L284 410L322 442L342 416" stroke="#171717" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="197" cy="444" r="10" fill="#171717"/>
+  <circle cx="244" cy="454" r="10" fill="#171717"/>
+  <circle cx="284" cy="410" r="10" fill="#171717"/>
+  <circle cx="322" cy="442" r="10" fill="#171717"/>
+  <rect x="468" y="252" width="170" height="12" rx="6" fill="#171717" fill-opacity="0.8"/>
+  <rect x="468" y="278" width="112" height="10" rx="5" fill="#B9B3AE"/>
+  <rect x="470" y="318" width="154" height="18" rx="9" fill="#EAE6E1"/>
+  <rect x="758" y="250" width="180" height="12" rx="6" fill="#171717" fill-opacity="0.8"/>
+  <rect x="758" y="278" width="118" height="10" rx="5" fill="#B9B3AE"/>
+  <rect x="758" y="318" width="116" height="18" rx="9" fill="#EAE6E1"/>
+  <rect x="894" y="318" width="108" height="18" rx="9" fill="#171717" fill-opacity="0.1"/>
+  <rect x="470" y="448" width="190" height="12" rx="6" fill="#171717" fill-opacity="0.8"/>
+  <rect x="470" y="476" width="164" height="10" rx="5" fill="#B9B3AE"/>
+  <path d="M482 514C536 488 562 480 620 480C676 480 718 488 774 514" stroke="#171717" stroke-width="7" stroke-linecap="round"/>
+  <path d="M780 514C822 492 872 486 924 502C956 512 988 516 1004 514" stroke="#171717" stroke-opacity="0.45" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Languages",
+    "items": ["JavaScript", "Python", "SQL", "HTML", "CSS"]
+  },
+  {
+    "category": "Frontend",
+    "items": ["React", "Next.js", "Tailwind CSS", "Accessibility", "Design Systems"]
+  },
+  {
+    "category": "Backend",
+    "items": ["Node.js", "Express", "PostgreSQL", "REST APIs", "System Design"]
+  },
+  {
+    "category": "Tools",
+    "items": ["GitHub", "Figma", "Vercel", "Docker", "CI/CD", "Testing"]
+  }
+]

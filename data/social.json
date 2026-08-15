@@ -1,0 +1,17 @@
+[
+  {
+    "platform": "GitHub",
+    "label": "GitHub",
+    "url": "https://github.com/alexmorgan"
+  },
+  {
+    "platform": "LinkedIn",
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/alexmorgan"
+  },
+  {
+    "platform": "Email",
+    "label": "Email",
+    "url": "mailto:hello@alexmorgan.dev"
+  }
+]
