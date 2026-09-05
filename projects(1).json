@@ -30,7 +30,7 @@
         "label": "Distributed nodes"
       }
     ],
-    "image": "/images/projects/northstar-ops.svg",
+    "image": null,
     "githubUrl": "https://github.com/adityas27/distributed_kv",
     "liveUrl": null,
     "caseStudyUrl": null
@@ -43,7 +43,7 @@
     "description": "An end-to-end traffic intelligence platform using FastAPI, ML predictions, geospatial processing, and context-aware emergency resource allocation.",
     "featured": true,
     "year": "2026",
-    "role": "Backend & Machine Learning",
+    "role": "Backend & ML Engineer",
     "technologies": [
       "FastAPI",
       "CatBoost",
@@ -60,7 +60,7 @@
       "Integrated live traffic data and geospatial services."
     ],
     "metrics": [],
-    "image": "/images/projects/northstar-ops.svg",
+    "image": null,
     "githubUrl": "https://github.com/adityas27/Atlas",
     "liveUrl": null,
     "caseStudyUrl": null
@@ -91,13 +91,8 @@
       "Load-tested 4,000+ HTTP requests locally.",
       "Containerized the application with Docker."
     ],
-    "metrics": [
-      {"value": "120 req/s", "label": "Illustrative local peak throughput"},
-            {"value": "180 ms", "label": "Illustrative median latency"},
-            {"value": "420 ms", "label": "Illustrative p95 latency"},
-            {"value": "7.2K", "label": "Illustrative requests in 60s"}
-    ],
-    "image": "/images/projects/northstar-ops.svg",
+    "metrics": [],
+    "image": null,
     "githubUrl": "https://github.com/adityas27/TradePaper",
     "liveUrl": null,
     "caseStudyUrl": null
@@ -123,7 +118,7 @@
     "solution": null,
     "results": [],
     "metrics": [],
-    "image": "/images/projects/northstar-ops.svg",
+    "image": null,
     "githubUrl": "https://github.com/adityas27/ML_Algos",
     "liveUrl": null,
     "caseStudyUrl": null
@@ -148,7 +143,7 @@
     "solution": null,
     "results": [],
     "metrics": [],
-    "image": "/images/projects/northstar-ops.svg",
+    "image": null,
     "githubUrl": "https://github.com/adityas27/rethinking-generalization",
     "liveUrl": null,
     "caseStudyUrl": null
@@ -172,7 +167,7 @@
     "solution": null,
     "results": [],
     "metrics": [],
-    "image": "/images/projects/northstar-ops.svg",
+    "image": null,
     "githubUrl": "https://github.com/adityas27/quantum-tunneling-simulator",
     "liveUrl": null,
     "caseStudyUrl": null
@@ -195,7 +190,7 @@
     "solution": null,
     "results": [],
     "metrics": [],
-    "image": "/images/projects/northstar-ops.svg",
+    "image": null,
     "githubUrl": "https://github.com/adityas27/datawebg3",
     "liveUrl": null,
     "caseStudyUrl": null
@@ -219,7 +214,7 @@
     "solution": null,
     "results": [],
     "metrics": [],
-    "image": "/images/projects/northstar-ops.svg",
+    "image": null,
     "githubUrl": "https://github.com/adityas27/lmsproject",
     "liveUrl": null,
     "caseStudyUrl": null
@@ -240,10 +235,9 @@
     "solution": null,
     "results": [],
     "metrics": [],
-    "image": "/images/projects/northstar-ops.svg",
+    "image": null,
     "githubUrl": "https://github.com/adityas27/blackjackProjects",
     "liveUrl": null,
     "caseStudyUrl": null
-  
-  }  
+  }
 ]

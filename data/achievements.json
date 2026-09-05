@@ -1,23 +1,23 @@
 [
   {
     "id": "achievement-1",
-    "title": "Built a product used across three teams",
-    "description": "Led the design and rollout of a shared internal workflow that reduced duplicated admin time and made operational reporting easier to trust.",
-    "date": "2025",
+    "title": "Technical Head and Backend Lead at Ojus College Festival",
+    "description": "Led a 6-person development team and delivered a production event platform supporting 3K+ users and approximately 1.5K concurrent requests.",
+    "date": "2024-present",
     "link": null
   },
   {
     "id": "achievement-2",
-    "title": "Improved release confidence",
-    "description": "Introduced a more structured QA and review flow that shortened release prep and reduced preventable issues in production.",
-    "date": "2024",
-    "link": null
+    "title": "Open Source Contributor at Zulip",
+    "description": "Contributing to the Zulip open-source project through GitHub-based development and collaboration.",
+    "date": "Present",
+    "link": "https://github.com/zulip/zulip"
   },
   {
     "id": "achievement-3",
-    "title": "Mentored early-career engineers",
-    "description": "Partnered with junior developers on architecture reviews, code quality improvements, and delivery planning to strengthen team execution.",
-    "date": "2023",
-    "link": null
+    "title": "Competitive Programming",
+    "description": "LeetCode rating: 1565 with 150+ problems solved; Codeforces rating: 1189.",
+    "date": "2026",
+    "link": "https://leetcode.com/u/adityas27/"
   }
 ]

@@ -1,12 +1,11 @@
 [
   {
     "id": "education-1",
-    "institution": "University of Westminster",
-    "degree": "BSc (Hons) Computer Science",
-    "field": "Software Engineering",
-    "location": "London, United Kingdom",
-    "startYear": "2016",
-    "endYear": "2020",
-    "description": "Focused on systems design, software engineering, and interactive product development."
+    "institution": "A. P. Shah Institute of Technology, University of Mumbai",
+    "degree": "B.E. in Computer Engineering; Minor in AI and ML",
+    "location": "Mumbai, Maharashtra, India",
+    "startYear": "2024",
+    "endYear": "2028",
+    "description": "CGPA: 8.1/10.\nRelevant coursework includes Database Management, Computer Networking, AI and Soft Computing, Operating Systems, Statistics, and Linear Algebra."
   }
 ]

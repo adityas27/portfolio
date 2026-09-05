@@ -1,18 +1,74 @@
 [
   {
     "category": "Languages",
-    "items": ["JavaScript", "Python", "SQL", "HTML", "CSS"]
-  },
-  {
-    "category": "Frontend",
-    "items": ["React", "Next.js", "Tailwind CSS", "Accessibility", "Design Systems"]
+    "items": [
+      "Go",
+      "Python",
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "C++",
+      "SQL"
+    ]
   },
   {
     "category": "Backend",
-    "items": ["Node.js", "Express", "PostgreSQL", "REST APIs", "System Design"]
+    "items": [
+      "Django",
+      "FastAPI",
+      "Flask",
+      "REST APIs",
+      "Distributed Systems",
+      "System Design",
+      "WebSockets",
+      "Celery"
+    ]
   },
   {
-    "category": "Tools",
-    "items": ["GitHub", "Figma", "Vercel", "Docker", "CI/CD", "Testing"]
+    "category": "Databases",
+    "items": [
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "ChromaDB"
+    ]
+  },
+  {
+    "category": "Machine Learning",
+    "items": [
+      "PyTorch",
+      "Scikit-learn",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Regression",
+      "Classification",
+      "Clustering",
+      "Dimensionality Reduction",
+      "Feature Engineering",
+      "Model Evaluation"
+    ]
+  },
+  {
+    "category": "Cloud & DevOps",
+    "items": [
+      "GCP",
+      "AWS",
+      "Docker",
+      "Linux",
+      "Git",
+      "GitHub",
+      "CI/CD",
+      "Bash",
+      "Locust"
+    ]
+  },
+  {
+    "category": "Frontend",
+    "items": [
+      "React",
+      "Next.js",
+      "Tailwind CSS"
+    ]
   }
 ]

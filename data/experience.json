@@ -1,53 +1,53 @@
 [
   {
     "id": "experience-1",
-    "company": "Northstar Labs",
-    "role": "Senior Software Engineer",
-    "location": "London, United Kingdom",
-    "startDate": "2024-01",
+    "company": "Volunteered at Ojus College Festival",
+    "role": "Technical Head & Backend Lead",
+    "location": "Mumbai, Maharashtra, India",
+    "startDate": "2024-12",
     "endDate": null,
     "current": true,
-    "description": "Leading product-facing engineering for internal workflow platforms and operational tooling used by cross-functional teams.",
+    "description": "Leading backend engineering and technical delivery for a high-traffic college festival platform.",
     "responsibilities": [
-      "Shipped and evolved a cross-functional workflow platform used across planning, operations, and release coordination.",
-      "Partnered closely with product leaders to turn operational friction into cleaner product decisions and clearer execution patterns.",
-      "Improved system reliability, team velocity, and frontend maintainability through refactors and better operational UX."
+      "Designed and deployed a GCP-hosted event platform supporting 3K+ users and approximately 1.5K concurrent requests with zero downtime during live registrations.",
+      "Designed a concurrent seat allocation system to prevent duplicate bookings under high registration load.",
+      "Developed 45+ REST API endpoints for registration, scheduling, and event management workflows.",
+      "Managed cloud infrastructure, SSL/TLS, and CI/CD pipelines for reliable production deployments.",
+      "Led a team of 6 developers across backend architecture, API integration, and feature delivery."
     ],
-    "technologies": ["Next.js", "TypeScript", "PostgreSQL", "Tailwind CSS"],
-    "companyUrl": "https://northstarlabs.example.com"
+    "technologies": [
+      "Python",
+      "Django",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "GCP",
+      "Docker",
+      "CI/CD"
+    ],
+    "companyUrl": null
   },
   {
     "id": "experience-2",
-    "company": "Vantage Digital",
-    "role": "Software Engineer",
+    "company": "Zulip",
+    "role": "Open Source Contributor",
     "location": "Remote",
-    "startDate": "2021-08",
-    "endDate": "2023-12",
-    "current": false,
-    "description": "Built product experiences and internal tooling for customer-facing and operational workflows across multiple teams.",
+    "startDate": null,
+    "endDate": null,
+    "current": true,
+    "description": "Contributing to the Zulip open-source project.",
     "responsibilities": [
-      "Developed data-heavy dashboards and customer-facing product modules with a focus on clarity, speed, and maintainability.",
-      "Worked across frontend and backend surfaces to connect user flows with platform and reporting needs.",
-      "Improved testing standards and reduced production friction during release cycles."
+      "Contribute code and improvements to the Zulip open-source codebase.",
+      "Collaborate through GitHub issues, pull requests, code review, and project conventions."
     ],
-    "technologies": ["React", "Node.js", "SQL", "AWS"],
-    "companyUrl": "https://vantage-digital.example.com"
-  },
-  {
-    "id": "experience-3",
-    "company": "Freelance",
-    "role": "Product Engineer",
-    "location": "Remote",
-    "startDate": "2019-04",
-    "endDate": "2021-07",
-    "current": false,
-    "description": "Worked with early-stage founders and small teams to turn product ideas into polished, usable interfaces and internal tools.",
-    "responsibilities": [
-      "Built MVPs and iteration-ready interfaces for founders and product teams.",
-      "Helped clients structure product decisions around clarity, adoption, and measurable product outcomes.",
-      "Delivered production-ready code with a strong emphasis on maintainability and collaborative delivery."
+    "technologies": [
+      "Python",
+      "Django",
+      "JavaScript",
+      "TypeScript",
+      "Git",
+      "GitHub"
     ],
-    "technologies": ["React", "Next.js", "TypeScript", "Design Systems"],
-    "companyUrl": null
+    "companyUrl": "https://github.com/zulip/zulip"
   }
 ]
