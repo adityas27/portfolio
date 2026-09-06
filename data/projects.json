@@ -27,7 +27,7 @@
     "metrics": [
       {
         "value": "4+",
-        "label": "Distributed nodes"
+        "label": "Distributed nodes successfully tested with automatic request routing"
       }
     ],
     "image": "/images/projects/northstar-ops.svg",
@@ -132,7 +132,7 @@
     "id": "project-5",
     "number": "05",
     "title": "Rethinking Generalization",
-    "shortDescription": "A research reproduction project studying deep learning generalization.",
+    "shortDescription": "A PyTorch research repository reproducing CNN architectures and evaluating optimization, generalization, and representation learning across computer-vision benchmarks.",
     "description": "A PyTorch research repository reproducing CNN architectures and evaluating optimization, generalization, and representation learning across computer-vision benchmarks.",
     "featured": false,
     "year": "2026",
@@ -181,14 +181,16 @@
     "id": "project-7",
     "number": "07",
     "title": "DataWebG3",
-    "shortDescription": "A software project developed as part of the user's project portfolio.",
-    "description": "Repository included in the project portfolio; implementation details can be expanded from the repository README.",
+    "shortDescription": "A project made as platform which gives fetches data from a database and displays it on a web page. Provides summary, plot's charts if required and ensures data isn't result of hallucination but coming only from the database/dataset",
+    "description": "A project made as platform which gives fetches data from a database and displays it on a web page. Provides summary, plot's charts if required and ensures data isn't result of hallucination but coming only from the database/dataset. The project is built using FastAPI and Gemini 2.5 Flash for the backend, and JavaScript for the frontend.",
     "featured": false,
     "year": null,
     "role": "Developer",
     "technologies": [
       "Python",
       "JavaScript",
+      "FastAPI",
+      "Gemini 2.5 Flash",
       "SQL"
     ],
     "problem": null,
@@ -204,7 +206,7 @@
     "id": "project-8",
     "number": "08",
     "title": "LMS Project",
-    "shortDescription": "A learning-management system project.",
+    "shortDescription": "A learning-management system project. Built with motive of learning Django, React and their integration. Giving hands of experience of learning request-response cycle, database management, and front-end back-end integration.",
     "description": "Repository included in the project portfolio; implementation details can be expanded from the repository README.",
     "featured": false,
     "year": null,
@@ -212,8 +214,8 @@
     "technologies": [
       "Python",
       "Django",
-      "JavaScript",
-      "SQL"
+      "React JS",
+      "PostgreSQL"
     ],
     "problem": null,
     "solution": null,
@@ -228,7 +230,7 @@
     "id": "project-9",
     "number": "09",
     "title": "Blackjack Projects",
-    "shortDescription": "A collection of blackjack-related software projects.",
+    "shortDescription": "A small implementation of a blackjack-like game to understand JavaScript DOM manipulation.",
     "description": "Repository included in the project portfolio; implementation details can be expanded from the repository README.",
     "featured": false,
     "year": null,
