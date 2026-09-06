@@ -73,7 +73,7 @@
     "description": "A paper-trading system with live market data, portfolio management, order execution, asynchronous services, and automated stop-loss monitoring.",
     "featured": true,
     "year": "2026",
-    "role": "Backend Engineer",
+    "role": "Backend Developer",
     "technologies": [
       "Python",
       "Django",
@@ -92,7 +92,7 @@
       "Containerized the application with Docker."
     ],
     "metrics": [
-      {"value": "120 req/s", "label": "Illustrative local peak throughput"},
+            {"value": "120 req/s", "label": "Illustrative local peak throughput"},
             {"value": "180 ms", "label": "Illustrative median latency"},
             {"value": "420 ms", "label": "Illustrative p95 latency"},
             {"value": "7.2K", "label": "Illustrative requests in 60s"}
@@ -110,7 +110,7 @@
     "description": "Implementations of machine learning algorithms using NumPy, with reusable training, optimization, evaluation, and visualization pipelines.",
     "featured": false,
     "year": "2026",
-    "role": "Machine Learning Engineer",
+    "role": "Machine Learning",
     "technologies": [
       "Python",
       "NumPy",
@@ -136,7 +136,7 @@
     "description": "A PyTorch research repository reproducing CNN architectures and evaluating optimization, generalization, and representation learning across computer-vision benchmarks.",
     "featured": false,
     "year": "2026",
-    "role": "Research Engineer",
+    "role": "Research Reproduction",
     "technologies": [
       "Python",
       "PyTorch",
