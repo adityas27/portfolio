@@ -9,7 +9,7 @@
     "current": true,
     "description": "Leading backend engineering and technical delivery for a high-traffic college festival platform.",
     "responsibilities": [
-      "Designed and deployed a GCP-hosted event platform supporting 3K+ users and approximately 1.5K concurrent requests with zero downtime during live registrations.",
+      "Designed and deployed a GCP-hosted event platform supporting 2.5K+ users and approximately 1.5K concurrent requests with zero downtime during live registrations.",
       "Designed a concurrent seat allocation system to prevent duplicate bookings under high registration load.",
       "Developed 45+ REST API endpoints for registration, scheduling, and event management workflows.",
       "Managed cloud infrastructure, SSL/TLS, and CI/CD pipelines for reliable production deployments.",
